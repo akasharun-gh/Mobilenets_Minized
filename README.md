@@ -17,4 +17,4 @@ Relatively larger magnitude of reduction in number of computations, consume less
 ### Accuracy vs Computations Tradeoffs
 These graphs show the comparisons between standard CNNs and MobileNets model in terms of computations and accuracy, for the MNIST, Fashion_MNIST and CIFAR 10 datasets. The neural networks consisted of 5-layers (4 convolution and 1 FCN layer), with the MobileNets model implementing Depthwise Seperable Convolution.
 
-<img src="image/CompVSModels.png" width="350" height="350"/>  <img src="image/AccComp.png" width="350" height="350"/>
+<img src="image/CompVSModels.png" width="400" height="350"/>   <img src="image/AccComp.png" width="400" height="350"/>
